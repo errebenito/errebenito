@@ -1,4 +1,4 @@
-[LinkedIn](https://www.linkedin.com/in/errebenito/) | [Contacto](mailto:erre.benito@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/errebenito/) | [Contact](mailto:erre.benito@gmail.com)
 
 > **Full Stack Developer** | Tarragona, Spain
 
