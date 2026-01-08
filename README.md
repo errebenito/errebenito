@@ -31,5 +31,5 @@
 
 ### Github Stats
 
-![Top Langs](github-readme-stats-mauve-one-20.vercel.app/api/top-langs/?username=errebenito&layout=compact&theme=highcontrast&hide_title=true&disable_animations=true) 
-!![Stats](github-readme-stats-mauve-one-20.vercel.app/api?username=errebenito&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=highcontrast&hide_title=true&disable_animations=true)
+![Top Langs](https://github-readme-stats-mauve-one-20.vercel.app/api/top-langs/?username=errebenito&layout=compact&theme=highcontrast&hide_title=true&disable_animations=true) 
+!![Stats](https://github-readme-stats-mauve-one-20.vercel.app/api?username=errebenito&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=highcontrast&hide_title=true&disable_animations=true)
